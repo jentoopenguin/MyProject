@@ -58,7 +58,7 @@
     "babel-plugin-styled-components": "^1.10.6",
     "babel-preset-expo": "^5.2.0",
     "babel-preset-react-native": "4.0.1",
-    "codecov": "^3.5.0",
+    "codecov": "^3.7.1",
     "eslint": "^6.0.1",
     "eslint-config-standard": "^13.0.0",
     "eslint-plugin-import": "^2.18.0",
